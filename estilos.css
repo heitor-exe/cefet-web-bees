@@ -42,11 +42,13 @@ p {
 .operaria {
     float: left;
     margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .zangao {
     float: right;
     margin-left: 20px;
+    margin-bottom: 20px;
 }
 
 .rainha {
